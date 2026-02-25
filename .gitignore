@@ -1,0 +1,54 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Build / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Tooling / IDE
+.idea/
+.vscode/
+.DS_Store
+*.swp
+*.swo
+
+# Test and lint caches
+.pytest_cache/
+.claude/
+.mypy_cache/
+.ruff_cache/
+.tox/
+.nox/
+.coverage
+.coverage.*
+htmlcov/
+
+# Logs
+*.log
+
+# Data
+data/
+
+# Training artifacts
+checkpoints/
+checkpoint/
+ckpt/
+outputs/
+output/
+runs/
+wandb/
+tensorboard/
+events.out.tfevents.*
+
+# Temp files
+tmp/
+temp/
