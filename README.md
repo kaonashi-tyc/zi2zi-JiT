@@ -2,7 +2,7 @@
   <img src="assets/logo.svg" alt="zi2zi-JiT logo" width="200">
 </p>
 
-## zi2zi-JiT: Font Synthesis with Pixel Space Diffusion Transformers
+<h2 align="center">zi2zi-JiT: Font Synthesis with Pixel Space Diffusion Transformers</h2>
 
 <p align="center">
   <img src="assets/showcase.png" width="80%">
