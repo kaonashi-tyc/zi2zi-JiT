@@ -203,10 +203,15 @@ the "Font Artifact License Addendum" in [LICENSE](LICENSE):
 - attribution is required when distributing a font product that uses more
   than 200 characters created from repository artifacts
 
-### References
+### References / Thanks
 
 - [JiT: Back to Basics: Let Denoising Generative Models Denoise](https://arxiv.org/abs/2511.13720)
 - [FontDiffuser: One-Shot Font Generation via Denoising Diffusion with Multi-Scale Content Aggregation and Style Contrastive Learning](https://arxiv.org/abs/2312.12142) ([code](https://github.com/yeungchenwa/FontDiffuser))
+
+This project builds on code and ideas from:
+
+- [FontDiffuser](https://github.com/yeungchenwa/FontDiffuser) — content/style encoder design and evaluation protocol
+- [JiT](https://github.com/LTH14/JiT) — base diffusion transformer architecture
 
 ### Citation
 
